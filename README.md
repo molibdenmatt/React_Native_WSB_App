@@ -1,5 +1,5 @@
 # React_Native_WSB_App
-## Technologies
+## Tech stack
 
 
 React Native + Expo
